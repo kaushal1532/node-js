@@ -1,0 +1,15 @@
+{
+    "name": "npmmod",
+    "version": "1.0.0",
+    "description": "kaushal panchal node js learn",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kaushal",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.0.0",
+        "validator": "^13.7.0"
+    }
+}
